@@ -133,137 +133,141 @@ Some are preserved at museums and designated historic sites, while others are on
 
 **Boards:**  
 
-- [board-1](https://the-atlantic-wall.github.io/Regelbau/Regelbau-0.html)
+- [board-1](https://the-atlantic-wall.github.io/Regelbau/board-1.html)
 
-- [board-2](https://the-atlantic-wall.github.io/Regelbau/Regelbau-1.html)
+- [board-2](https://the-atlantic-wall.github.io/Regelbau/board-2.html)
 
-- [board-3](https://the-atlantic-wall.github.io/Regelbau/Regelbau-2.html)
+- [board-3](https://the-atlantic-wall.github.io/Regelbau/board-3.html)
 
-- [board-4](https://the-atlantic-wall.github.io/Regelbau/Regelbau-3.html)
+- [board-4](https://the-atlantic-wall.github.io/Regelbau/board-4.html)
 
-- [board-5](https://the-atlantic-wall.github.io/Regelbau/Regelbau-4.html)
+- [board-5](https://the-atlantic-wall.github.io/Regelbau/board-5.html)
 
-- [board-6](https://the-atlantic-wall.github.io/Regelbau/Regelbau-5.html)
+- [board-6](https://the-atlantic-wall.github.io/Regelbau/board-6.html)
 
-- [board-7](https://the-atlantic-wall.github.io/Regelbau/Regelbau-6.html)
+- [board-7](https://the-atlantic-wall.github.io/Regelbau/board-7.html)
 
-- [board-8](https://the-atlantic-wall.github.io/Regelbau/Regelbau-7.html)
+- [board-8](https://the-atlantic-wall.github.io/Regelbau/board-8.html)
 
-- [board-9](https://the-atlantic-wall.github.io/Regelbau/Regelbau-8.html)
+- [board-9](https://the-atlantic-wall.github.io/Regelbau/board-9.html)
 
-- [board-10](https://the-atlantic-wall.github.io/Regelbau/Regelbau-9.html)
+- [board-10](https://the-atlantic-wall.github.io/Regelbau/board-10.html)
 
-- [board-11](https://the-atlantic-wall.github.io/Regelbau/Regelbau-10.html)
+- [board-11](https://the-atlantic-wall.github.io/Regelbau/board-11.html)
 
-- [board-12](https://the-atlantic-wall.github.io/Regelbau/Regelbau-11.html)
+- [board-12](https://the-atlantic-wall.github.io/Regelbau/board-12.html)
 
-- [board-13](https://the-atlantic-wall.github.io/Regelbau/Regelbau-12.html)
+- [board-13](https://the-atlantic-wall.github.io/Regelbau/board-13.html)
 
-- [board-14](https://the-atlantic-wall.github.io/Regelbau/Regelbau-13.html)
+- [board-14](https://the-atlantic-wall.github.io/Regelbau/board-14.html)
 
-- [board-15](https://the-atlantic-wall.github.io/Regelbau/Regelbau-14.html)
+- [board-15](https://the-atlantic-wall.github.io/Regelbau/board-15.html)
 
-- [board-16](https://the-atlantic-wall.github.io/Regelbau/Regelbau-15.html)
+- [board-16](https://the-atlantic-wall.github.io/Regelbau/board-16.html)
 
-- [board-17](https://the-atlantic-wall.github.io/Regelbau/Regelbau-16.html)
+- [board-17](https://the-atlantic-wall.github.io/Regelbau/board-17.html)
 
-- [board-18](https://the-atlantic-wall.github.io/Regelbau/Regelbau-17.html)
+- [board-18](https://the-atlantic-wall.github.io/Regelbau/board-18.html)
 
-- [board-19](https://the-atlantic-wall.github.io/Regelbau/Regelbau-18.html)
+- [board-19](https://the-atlantic-wall.github.io/Regelbau/board-19.html)
 
-- [board-20](https://the-atlantic-wall.github.io/Regelbau/Regelbau-19.html)
+- [board-20](https://the-atlantic-wall.github.io/Regelbau/board-20.html)
 
-- [board-21](https://the-atlantic-wall.github.io/Regelbau/Regelbau-20.html)
+- [board-21](https://the-atlantic-wall.github.io/Regelbau/board-21.html)
 
-- [board-22](https://the-atlantic-wall.github.io/Regelbau/Regelbau-21.html)
+- [board-22](https://the-atlantic-wall.github.io/Regelbau/board-22.html)
 
-- [board-23](https://the-atlantic-wall.github.io/Regelbau/Regelbau-22.html)
+- [board-23](https://the-atlantic-wall.github.io/Regelbau/board-23.html)
 
-- [board-24](https://the-atlantic-wall.github.io/Regelbau/Regelbau-23.html)
+- [board-24](https://the-atlantic-wall.github.io/Regelbau/board-24.html)
 
-- [board-25](https://the-atlantic-wall.github.io/Regelbau/Regelbau-24.html)
+- [board-25](https://the-atlantic-wall.github.io/Regelbau/board-25.html)
 
-- [board-26](https://the-atlantic-wall.github.io/Regelbau/Regelbau-25.html)
+- [board-26](https://the-atlantic-wall.github.io/Regelbau/board-26.html)
 
-- [board-27](https://the-atlantic-wall.github.io/Regelbau/Regelbau-26.html)
+- [board-27](https://the-atlantic-wall.github.io/Regelbau/board-27.html)
 
-- [board-28](https://the-atlantic-wall.github.io/Regelbau/Regelbau-27.html)
+- [board-28](https://the-atlantic-wall.github.io/Regelbau/board-28.html)
 
-- [board-29](https://the-atlantic-wall.github.io/Regelbau/Regelbau-28.html)
+- [board-29](https://the-atlantic-wall.github.io/Regelbau/board-29.html)
 
-- [board-30](https://the-atlantic-wall.github.io/Regelbau/Regelbau-29.html)
+- [board-30](https://the-atlantic-wall.github.io/Regelbau/board-30.html)
 
-- [board-31](https://the-atlantic-wall.github.io/Regelbau/Regelbau-30.html)
+- [board-31](https://the-atlantic-wall.github.io/Regelbau/board-31.html)
 
-- [board-32](https://the-atlantic-wall.github.io/Regelbau/Regelbau-31.html)
+- [board-32](https://the-atlantic-wall.github.io/Regelbau/board-32.html)
 
-- [board-33](https://the-atlantic-wall.github.io/Regelbau/Regelbau-32.html)
+- [board-33](https://the-atlantic-wall.github.io/Regelbau/board-33.html)
 
-- [board-34](https://the-atlantic-wall.github.io/Regelbau/Regelbau-33.html)
+- [board-34](https://the-atlantic-wall.github.io/Regelbau/board-34.html)
 
-- [board-35](https://the-atlantic-wall.github.io/Regelbau/Regelbau-34.html)
+- [board-35](https://the-atlantic-wall.github.io/Regelbau/board-35.html)
 
-- [board-36](https://the-atlantic-wall.github.io/Regelbau/Regelbau-35.html)
+- [board-36](https://the-atlantic-wall.github.io/Regelbau/board-36.html)
 
-- [board-37](https://the-atlantic-wall.github.io/Regelbau/Regelbau-36.html)
+- [board-37](https://the-atlantic-wall.github.io/Regelbau/board-37.html)
 
-- [board-38](https://the-atlantic-wall.github.io/Regelbau/Regelbau-37.html)
+- [board-38](https://the-atlantic-wall.github.io/Regelbau/board-38.html)
 
-- [board-39](https://the-atlantic-wall.github.io/Regelbau/Regelbau-38.html)
+- [board-39](https://the-atlantic-wall.github.io/Regelbau/board-39.html)
 
-- [board-40](https://the-atlantic-wall.github.io/Regelbau/Regelbau-39.html)
+- [board-40](https://the-atlantic-wall.github.io/Regelbau/board-40.html)
 
-- [board-41](https://the-atlantic-wall.github.io/Regelbau/Regelbau-40.html)
+- [board-41](https://the-atlantic-wall.github.io/Regelbau/board-41.html)
 
-- [board-42](https://the-atlantic-wall.github.io/Regelbau/Regelbau-41.html)
+- [board-42](https://the-atlantic-wall.github.io/Regelbau/board-42.html)
 
-- [board-43](https://the-atlantic-wall.github.io/Regelbau/Regelbau-42.html)
+- [board-43](https://the-atlantic-wall.github.io/Regelbau/board-43.html)
 
-- [board-44](https://the-atlantic-wall.github.io/Regelbau/Regelbau-43.html)
+- [board-44](https://the-atlantic-wall.github.io/Regelbau/board-44.html)
 
-- [board-45](https://the-atlantic-wall.github.io/Regelbau/Regelbau-44.html)
+- [board-45](https://the-atlantic-wall.github.io/Regelbau/board-45.html)
 
-- [board-46](https://the-atlantic-wall.github.io/Regelbau/Regelbau-45.html)
+- [board-46](https://the-atlantic-wall.github.io/Regelbau/board-46.html)
 
-- [board-47](https://the-atlantic-wall.github.io/Regelbau/Regelbau-46.html)
+- [board-47](https://the-atlantic-wall.github.io/Regelbau/board-47.html)
 
-- [board-48](https://the-atlantic-wall.github.io/Regelbau/Regelbau-47.html)
+- [board-48](https://the-atlantic-wall.github.io/Regelbau/board-48.html)
 
-- [board-49](https://the-atlantic-wall.github.io/Regelbau/Regelbau-48.html)
+- [board-49](https://the-atlantic-wall.github.io/Regelbau/board-49.html)
 
-- [board-50](https://the-atlantic-wall.github.io/Regelbau/Regelbau-49.html)
+- [board-50](https://the-atlantic-wall.github.io/Regelbau/board-50.html)
 
-- [board-51](https://the-atlantic-wall.github.io/Regelbau/Regelbau-50.html)
+- [board-51](https://the-atlantic-wall.github.io/Regelbau/board-51.html)
 
-- [board-52](https://the-atlantic-wall.github.io/Regelbau/Regelbau-51.html)
+- [board-52](https://the-atlantic-wall.github.io/Regelbau/board-52.html)
 
-- [board-53](https://the-atlantic-wall.github.io/Regelbau/Regelbau-52.html)
+- [board-53](https://the-atlantic-wall.github.io/Regelbau/board-53.html)
 
-- [board-54](https://the-atlantic-wall.github.io/Regelbau/Regelbau-53.html)
+- [board-54](https://the-atlantic-wall.github.io/Regelbau/board-54.html)
 
-- [board-55](https://the-atlantic-wall.github.io/Regelbau/Regelbau-54.html)
+- [board-55](https://the-atlantic-wall.github.io/Regelbau/board-55.html)
 
-- [board-56](https://the-atlantic-wall.github.io/Regelbau/Regelbau-55.html)
+- [board-56](https://the-atlantic-wall.github.io/Regelbau/board-56.html)
 
-- [board-57](https://the-atlantic-wall.github.io/Regelbau/Regelbau-56.html)
+- [board-57](https://the-atlantic-wall.github.io/Regelbau/board-57.html)
 
-- [board-58](https://the-atlantic-wall.github.io/Regelbau/Regelbau-57.html)
+- [board-58](https://the-atlantic-wall.github.io/Regelbau/board-58.html)
 
-- [board-59](https://the-atlantic-wall.github.io/Regelbau/Regelbau-58.html)
+- [board-59](https://the-atlantic-wall.github.io/Regelbau/board-59.html)
 
-- [board-60](https://the-atlantic-wall.github.io/Regelbau/Regelbau-59.html)
+- [board-60](https://the-atlantic-wall.github.io/Regelbau/board-60.html)
 
-- [board-61](https://the-atlantic-wall.github.io/Regelbau/Regelbau-60.html)
+- [board-61](https://the-atlantic-wall.github.io/Regelbau/board-61.html)
 
-- [board-62](https://the-atlantic-wall.github.io/Regelbau/Regelbau-61.html)
+- [board-62](https://the-atlantic-wall.github.io/Regelbau/board-62.html)
 
-- [board-63](https://the-atlantic-wall.github.io/Regelbau/Regelbau-62.html)
+- [board-63](https://the-atlantic-wall.github.io/Regelbau/board-63.html)
 
-- [board-64](https://the-atlantic-wall.github.io/Regelbau/Regelbau-63.html)
+- [board-64](https://the-atlantic-wall.github.io/Regelbau/board-64.html)
 
-- [board-65](https://the-atlantic-wall.github.io/Regelbau/Regelbau-64.html)
+- [board-65](https://the-atlantic-wall.github.io/Regelbau/board-65.html)
 
-- [board-66](https://the-atlantic-wall.github.io/Regelbau/Regelbau-65.html)
+- [board-66](https://the-atlantic-wall.github.io/Regelbau/board-66.html)
+
+- [board-67](https://the-atlantic-wall.github.io/Regelbau/board-67.html)
+
+
 
 
 
@@ -2113,6 +2117,5 @@ Some are preserved at museums and designated historic sites, while others are on
 
 - [Regelbau-922](https://the-atlantic-wall.github.io/Regelbau/Regelbau-922.html)
 
-- [Regelbau-922](https://the-atlantic-wall.github.io/Regelbau/Regelbau-923.html)
-
+- [Regelbau-923](https://the-atlantic-wall.github.io/Regelbau/Regelbau-923.html)
 
