@@ -1,7 +1,5 @@
 **Links:**  
 
-- [Regelbau-0](https://the-atlantic-wall.github.io/Regelbau/Regelbau-0.html)
-
 - [Regelbau-1](https://the-atlantic-wall.github.io/Regelbau/Regelbau-1.html)
 
 - [Regelbau-2](https://the-atlantic-wall.github.io/Regelbau/Regelbau-2.html)
@@ -1845,4 +1843,7 @@
 - [Regelbau-921](https://the-atlantic-wall.github.io/Regelbau/Regelbau-921.html)
 
 - [Regelbau-922](https://the-atlantic-wall.github.io/Regelbau/Regelbau-922.html)
+
+- [Regelbau-922](https://the-atlantic-wall.github.io/Regelbau/Regelbau-923.html)
+
 
